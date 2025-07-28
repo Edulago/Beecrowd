@@ -1,3 +1,0 @@
-﻿Add-Content .gitignore ".vs/"
-Add-Content .gitignore "bin/"
-Add-Content .gitignore "obj/"
