@@ -2,9 +2,9 @@
 
 Bem-vindo(a) ao repositório de resoluções de exercícios da plataforma [Beecrowd](https://www.beecrowd.com.br/). Aqui compartilho as soluções que venho desenvolvendo para praticar lógica de programação, algoritmos e estruturas de dados.
 
-## 🚀 Objetivo
+## 🚀 Objetivos
 
-Este projeto tem como objetivo:
+Este projeto tem como objetivos:
 
 - Praticar programação 
 - Evoluir o raciocínio lógico e matemático
@@ -25,3 +25,4 @@ Beecrowd/
 ├── 📄 Program.cs
 ├── 📄 Beecrowd.csproj
 └── 📄 Beecrowd.sln
+
